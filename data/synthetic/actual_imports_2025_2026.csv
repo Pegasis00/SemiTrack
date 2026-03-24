@@ -1,0 +1,7 @@
+year,period,period_type,hs_code,hs_description,bau_forecast_real_2015usd_bn,actual_value_real_2015usd_bn,delta_bn,mix_shift_signal,notes
+2025,full_year,annual,8542,Electronic Integrated Circuits,16.7949,12.9321,3.8628,below_forecast,Finished chip imports declined — Micron ATMP packaging domestically
+2025,full_year,annual,3818,Doped Silicon Wafers,0.1384,0.526,-0.3876,above_forecast,Raw input imports spiked — Micron Gujarat plant consuming unpackaged die
+2026,january,monthly,8542,Electronic Integrated Circuits,1.6235,1.1852,0.4383,below_forecast,Jan 2026 continued decline
+2026,february,monthly,8542,Electronic Integrated Circuits,1.6235,1.1365,0.4871,below_forecast,Feb 2026 further decline
+2026,january,monthly,3818,Doped Silicon Wafers,0.0134,0.0562,-0.0428,above_forecast,Jan 2026 raw input spike
+2026,february,monthly,3818,Doped Silicon Wafers,0.0134,0.0602,-0.0468,above_forecast,Feb 2026 sustained spike
